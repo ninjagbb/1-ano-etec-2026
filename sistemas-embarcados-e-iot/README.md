@@ -13,6 +13,10 @@ This folder centralizes Arduino C++ projects, hardware simulations, and circuit 
   - *What it does*: Uses a rotary potentiometer to switch between four different operation modes on a 16x2 LCD screen, displaying data from an ultrasonic distance sensor, an LDR light sensor, a temperature sensor, and a PIR motion detector.
   - *Tools & Elements Used*: Arduino Uno, LiquidCrystal library, ultrasonic distance sensor, LDR photoresistor, TMP36 temperature sensor, PIR motion sensor, potentiometer for mode selection (`map` function), and conditional logic routing.
   - *Circuit Schematic*: ![Circuit Schematic](./Prova%20Yuri%20Oliveira%201-VB.png)
-
+  - 
+- **[prova_yuri_oliveira1.ino](./prova_yuri_oliveira1.ino)**: Dual-Mode Environmental Monitor with LCD and RGB LED Indicator.
+  - *What it does*: Uses a rotary potentiometer to switch between two main monitoring modes on a 16x2 LCD screen: ambient light monitoring via an LDR sensor (with low-light detection) and temperature monitoring via a TMP36 sensor (with RGB LED visual feedback for thresholds).
+  - *Tools & Elements Used*: Arduino Uno, LiquidCrystal library, potentiometer for mode selection, LDR photoresistor, TMP36 temperature sensor, RGB LED indicators, and conditional threshold logic.
+  - *Circuit Schematic*: ![Circuit Schematic](./Prova-Yuri%20Oliveira.png)
 ---
 > *"We are born of the blood, made men by the blood, undone by the blood."*
