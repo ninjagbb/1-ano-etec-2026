@@ -4,12 +4,15 @@ This folder centralizes Arduino C++ projects, hardware simulations, and circuit 
 
 ## 📂 Projects & Hardware Descriptions
 
-- **[vetor1.ino](./vetor1.ino)**: 7-Segment Display Counter using Arrays[cite: 23, 24].
-  - *What it does*: Controls a 7-segment display using an Arduino Uno and one-dimensional arrays to render and cycle through numeric patterns sequentially[cite: 23, 24].
-  - *Tools & Elements Used*: Arduino Uno, breadboard, 7-segment display, protective resistors, `for` loops, binary arrays, and dynamic functions (`digitalWrite`)[cite: 23, 24].
+- **[vetor1.ino](./vetor1.ino)**: 7-Segment Display Counter using Arrays.
+  - *What it does*: Controls a 7-segment display using an Arduino Uno and one-dimensional arrays to render and cycle through numeric patterns sequentially.
+  - *Tools & Elements Used*: Arduino Uno, breadboard, 7-segment display, protective resistors, `for` loops, binary arrays, and dynamic functions (`digitalWrite`).
   - *Circuit Schematic*: ![Circuit Schematic](./Vetor.png)
 
-*(You can easily add your upcoming Arduino projects here following this same clean structure!)*
+- **[prova_yuri_oliveira_1_vb1.ino](./prova_yuri_oliveira_1_vb1.ino)**: Multi-Sensor Monitoring System with LCD and Potentiometer Selector (Exam Project).
+  - *What it does*: Uses a rotary potentiometer to switch between four different operation modes on a 16x2 LCD screen, displaying data from an ultrasonic distance sensor, an LDR light sensor, a temperature sensor, and a PIR motion detector.
+  - *Tools & Elements Used*: Arduino Uno, LiquidCrystal library, ultrasonic distance sensor, LDR photoresistor, TMP36 temperature sensor, PIR motion sensor, potentiometer for mode selection (`map` function), and conditional logic routing.
+  - *Circuit Schematic*: ![Circuit Schematic](./Prova%20Yuri%20Oliveira%201-VB.png)
 
 ---
 > *"We are born of the blood, made men by the blood, undone by the blood."*
