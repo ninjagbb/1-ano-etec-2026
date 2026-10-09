@@ -56,7 +56,7 @@ This folder centralizes code examples, practical exercises, and class activities
   - *What it does*: Manages account balances, processes deposits and withdrawals, verifies security passwords, and simulates loan financing based on customer credit scores.
   - *Tools & Elements Used*: Object-Oriented Programming (classes, attributes, methods with/without return and parameters), `do-while` loops, `switch-case` menus, and `JOptionPane`.
 
-- **[Yuri Oliveira.java](./Yuri Oliveira.java)**: Automated electronic voting simulation system.
+- **[Yuri Oliveira.java](./YuriOliveira.java)**: Automated electronic voting simulation system.
   - *What it does*: Registers voters and candidate names, simulates random voting, computes individual percentages, determines the winning candidate using mathematical maximum functions, and outputs structured reports with repetition options.
   - *Tools & Elements Used*: `do-while` loops, dynamic counters, `Math.random()`, `Math.max()`, and formatted dialog reports.
 
