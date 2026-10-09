@@ -6,7 +6,7 @@ Official repository of my journey through the first year of technical high schoo
 
 * **[Web Programming I](./programacao-web-i)**: HTML, CSS, and JavaScript.
 * **[Programming & Algorithms](./programacao-e-algoritmos)**: Logic, structures, and Java development.
-* **[Embedded Systems & IoT](./sistemas-embarcados-e-iot)**: Hardware projects, sensors, and Arduino/Tinkercad code[cite: 1].
+* **[Embedded Systems & IoT](./sistemas-embarcados-e-iot)**: Hardware projects, sensors, and Arduino/Tinkercad code.
 * **[Database I](./banco-de-dados-i)**: Data modeling and SQL scripts.
 
 ---
