@@ -1,0 +1,14 @@
+h1{
+ font-style: oblique;
+background-color: burlywood
+}
+h2{
+    align-content: center;
+    text-align: center;
+}
+.container {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center;    /* Opcional: Centraliza verticalmente */
+  }
+  
